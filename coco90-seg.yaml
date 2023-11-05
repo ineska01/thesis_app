@@ -1,0 +1,6 @@
+train: budynki_yolov8\test
+val: budynki_yolov8\train
+
+
+names:
+  0: buildings

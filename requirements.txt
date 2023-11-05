@@ -1,0 +1,2 @@
+ultralytics==8.0.207
+Pillow==10.1.0
